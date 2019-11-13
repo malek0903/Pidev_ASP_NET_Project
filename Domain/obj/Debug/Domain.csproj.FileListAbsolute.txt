@@ -1,0 +1,10 @@
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\bin\Debug\Domain.dll.config
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\bin\Debug\Domain.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\bin\Debug\Domain.pdb
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\obj\Debug\Domain.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Domain\obj\Debug\Domain.pdb

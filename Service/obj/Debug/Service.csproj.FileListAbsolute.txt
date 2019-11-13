@@ -1,0 +1,16 @@
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\Service.dll.config
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\Service.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\Service.pdb
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\data.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\Domain.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\EntityFramework.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\ServicePattern.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\data.pdb
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\Domain.pdb
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\ServicePattern.pdb
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\EntityFramework.xml
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\obj\Debug\Service.dll
+C:\Users\Bechbenna\Documents\Visual Studio 2015\Projects\PidevWEB\Service\obj\Debug\Service.pdb
